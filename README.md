@@ -50,7 +50,7 @@ Describe any challenges encountered while building the app.
 
 
 
-<img src="https://i.imgur.com/dluGoRx.gifv" width=250><br>
+<img src="https://i.imgur.com/dluGoRx.gif" width=250><br>
 
 ### Notes
 
